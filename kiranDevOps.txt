@@ -1,0 +1,5 @@
+Hello friends,This first DEvOps Lecture on 3rd Feb21
+:wq!
+
+exit
+Im in Pune

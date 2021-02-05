@@ -1,0 +1,30 @@
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd respawning too fast, stopped
+init: upstart-event-bridge main process (3911) terminated with status 1
+init: upstart-event-bridge main process ended, respawning
+init: upstart-dbus-session-bridge main process (3932) terminated with status 1
+init: upstart-dbus-session-bridge main process ended, respawning
+init: upstart-file-bridge main process (3933) terminated with status 1
+init: upstart-file-bridge main process ended, respawning
+init: upstart-dbus-system-bridge main process (3935) terminated with status 1
+init: upstart-dbus-system-bridge main process ended, respawning
+init: upstart-event-bridge main process (27321) terminated with status 1
+init: upstart-event-bridge main process ended, respawning
+init: upstart-dbus-session-bridge main process (27326) terminated with status 1
+init: upstart-dbus-session-bridge main process ended, respawning
+init: upstart-dbus-system-bridge main process (27328) terminated with status 1
+init: upstart-dbus-system-bridge main process ended, respawning
+init: upstart-file-bridge main process (27335) terminated with status 1
+init: upstart-file-bridge main process ended, respawning

@@ -1,0 +1,29 @@
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/kiran/.cache/oneconf/5df5795ad3ca41709910a55f601acf8b/other_hosts'
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:2198): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
