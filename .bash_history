@@ -11,3 +11,5 @@ q
 :wq!
 help
 exit
+apt-get install git
+sudo su

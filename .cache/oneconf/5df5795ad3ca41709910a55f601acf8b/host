@@ -1,1 +1,1 @@
-{"hostid": "5df5795ad3ca41709910a55f601acf8b", "hostname": "ubuntu", "logo_checksum": null, "share_inventory": false, "packages_checksum": "f97996e6fd31c1fcf2bc613cf8c4edc0741901756eddb94d57e29b88"}
+{"hostname": "ubuntu", "logo_checksum": null, "hostid": "5df5795ad3ca41709910a55f601acf8b", "packages_checksum": "f97996e6fd31c1fcf2bc613cf8c4edc0741901756eddb94d57e29b88", "share_inventory": false}
